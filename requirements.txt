@@ -1,0 +1,14 @@
+requests
+pythonping
+
+# sudo apt-get install libsnmp-dev snmp-mibs-downloader
+easysnmp
+
+# code style
+pylint
+autopep8
+isort
+
+# testing
+pytest
+pytest-cov

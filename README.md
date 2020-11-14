@@ -1,2 +1,2 @@
-# npdk
-Nagios Plugin Development Kit
+# Nagios Plugin Development Kit
+
